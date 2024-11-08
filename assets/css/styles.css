@@ -13,6 +13,11 @@ footer {
     height: 100vh;
     color: white;
 }
+.hero-section .text-container {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    padding: 20px;
+    border-radius: 10px;
+}
 
 .hero-section .container {
     max-width: 600px;
