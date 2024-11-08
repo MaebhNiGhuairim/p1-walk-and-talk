@@ -1,0 +1,19 @@
+.nav-link.active {
+    font-weight: bold;
+}
+
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.hero-section {
+    background: url('../../assets/images/hero-image.png') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.hero-section .container {
+    max-width: 600px;
+}
