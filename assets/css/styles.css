@@ -5,6 +5,7 @@ body {
 .navbar {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
+    color:#F8FAF0;
 }
 .header-font {
     font-family: "Edu VIC WA NT Beginner", sans-serif;
@@ -39,7 +40,7 @@ footer {
 .hero-section {
     background: url('../../assets/images/hero-image.png') no-repeat center center;
     background-size: cover;
-    height: 100vh;
+    height: 90vh;
     color: #F8FAF0;
 }
 .hero-section .text-container {
@@ -54,13 +55,29 @@ footer {
     height: 100vh;
     color: #F8FAF0;
     height: 33.33vh;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .hero-section .container {
     max-width: 600px;
 }
 
-.bg-green {
-    background-color: white;
-    color: brown
+#contact-instructions {
+    background-color: beige;
+    border-right: 1px solid #ccc; /* Adjust the color and width as needed */
+    /* height: 100%; */
+}
+
+#contact-instructions h3, p {
+    padding: 25px 50px;
+}
+
+.contact-card {
+    width: 100%;
+    max-width: 500px; /* Adjust this value as needed */
+    margin-right: 0;
+}
+
+.pill-shape-input {
+    border-radius: 50px;
 }
