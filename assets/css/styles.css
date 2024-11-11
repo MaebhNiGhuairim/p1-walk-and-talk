@@ -11,7 +11,7 @@ footer {
     background: url('../../assets/images/hero-image.png') no-repeat center center;
     background-size: cover;
     height: 100vh;
-    color: white;
+    color: #F8FAF0;
 }
 .hero-section .text-container {
     background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
@@ -21,4 +21,9 @@ footer {
 
 .hero-section .container {
     max-width: 600px;
+}
+
+.bg-green {
+    background-color: rgba(63,51,39,255);
+    color: #F8FAF0;
 }
