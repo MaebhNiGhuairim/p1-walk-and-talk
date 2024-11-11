@@ -5,11 +5,15 @@ body {
     font-family: "Edu AU VIC WA NT Pre", sans-serif;
     font-weight:600;
 }
+.title-font {
+    font-family: "Edu AU VIC WA NT Pre", sans-serif;
+    font-weight:400;
+}
 
-
+/* 
 #main-nav {
     background-color: #3F5326 !important;
-}
+} */
 
 
 .nav-link.active {
