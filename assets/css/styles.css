@@ -48,6 +48,14 @@ footer {
     border-radius: 10px;
 }
 
+.hero-section-secondary-page {
+    background: url('../../assets/images/hero-image.png') no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+    color: #F8FAF0;
+    height: 33.33vh;
+}
+
 .hero-section .container {
     max-width: 600px;
 }
