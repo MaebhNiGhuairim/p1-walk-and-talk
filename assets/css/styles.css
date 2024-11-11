@@ -1,6 +1,11 @@
 body {
     font-family: "Rubik", sans-serif;
   }
+
+.navbar {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
 .header-font {
     font-family: "Edu AU VIC WA NT Pre", sans-serif;
     font-weight:600;
@@ -10,10 +15,14 @@ body {
     font-weight:400;
 }
 
-/* 
-#main-nav {
-    background-color: #3F5326 !important;
-} */
+.get-in-touch-bar {
+    font-family: "Edu AU VIC WA NT Pre", sans-serif;
+    font-weight:400;
+    background-color: brown;
+    padding-top: 1.75rem;
+    padding-bottom: 1.75rem;
+
+}
 
 
 .nav-link.active {
