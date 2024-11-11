@@ -1,3 +1,12 @@
+body {
+    font-family: "Edu AU VIC WA NT Pre", sans-serif;
+  }
+
+#main-nav {
+    background-color: #3F5326;
+}
+
+
 .nav-link.active {
     font-weight: bold;
 }
@@ -24,6 +33,6 @@ footer {
 }
 
 .bg-green {
-    background-color: rgba(63,51,39,255);
-    color: #F8FAF0;
+    background-color: white;
+    color: brown
 }
