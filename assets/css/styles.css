@@ -1,5 +1,5 @@
 body {
-    font-family: "Rubik", sans-serif;
+    font-family: "Sen", sans-serif;
   }
 
 .navbar {
@@ -7,21 +7,23 @@ body {
     padding-bottom: 1.25rem;
 }
 .header-font {
-    font-family: "Edu AU VIC WA NT Pre", sans-serif;
+    font-family: "Edu VIC WA NT Beginner", sans-serif;
     font-weight:600;
 }
 .title-font {
-    font-family: "Edu AU VIC WA NT Pre", sans-serif;
+    font-family: "Edu VIC WA NT Beginner", sans-serif;
     font-weight:400;
 }
 
 .get-in-touch-bar {
-    font-family: "Edu AU VIC WA NT Pre", sans-serif;
-    font-weight:400;
-    background-color: brown;
-    padding-top: 1.75rem;
-    padding-bottom: 1.75rem;
-
+    background-color: #3f3327;
+    color: white;
+    font-family: "Edu VIC WA NT Beginner", sans-serif;
+    font-weight:200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 6rem; /* Adjust this value as needed */
 }
 
 
