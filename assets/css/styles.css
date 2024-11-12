@@ -7,6 +7,7 @@ body {
 
 main {
     flex-grow: 1;
+    min-height: 100dvh;
 }
 .navbar {
     padding-top: 1.25rem;
@@ -61,7 +62,7 @@ main {
     border-right: 1px solid #ccc;
 }
 
-#contact-instructions h3, p {
+#contact-instructions h3, #contact-instructions p {
     padding: 25px 50px;
 }
 
@@ -76,11 +77,8 @@ main {
 }
 
 footer {
-    /* padding-top: 1rem;
-    padding-bottom: 1rem; */
+    padding: 20px 0;
     font-size: 15px;
-    padding: 0;
-
 }
 
 /* Footer item styling */
@@ -93,6 +91,7 @@ footer {
 .footer-item p {
     white-space: nowrap;
 }
+
 
 .px-300-wide {
     width:75px;
@@ -142,4 +141,21 @@ li::marker{font-size:0;}
 .green-button {
     background-color: #3F5326;
     color: white;
+}
+
+.card-text {
+    text-align: justify;
+}
+/* makes card photos same height */
+.card-img-top {
+    height: 200px; /* Adjust the height as needed */
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 10px; /* Adjust the padding as needed */
+}
+/* centering text*/
+#mission  {
+    text-align: justify;
 }
