@@ -159,3 +159,12 @@ li::marker{font-size:0;}
 #mission  {
     text-align: justify;
 }
+
+/* about page */
+.about-page {
+    background-color: #f6f9f2;
+}
+
+.card {
+    background-color: #f3e4d6;
+}
