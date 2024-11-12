@@ -62,8 +62,12 @@ main {
     border-right: 1px solid #ccc;
 }
 
-#contact-instructions h3, #contact-instructions p {
-    padding: 25px 50px;
+#contact-instructions h3{
+    padding: 20px 50px;
+}
+
+#contact-instructions p  {
+    padding: 0px 50px;
 }
 
 .contact-card {
@@ -169,6 +173,6 @@ li::marker{font-size:0;}
     background-color: #e7efdc;
 }
 
-#carosel h1 {
+/* #carosel h1 {
     white-space: nowrap;
-}
+} */
