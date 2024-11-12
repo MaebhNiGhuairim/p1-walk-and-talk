@@ -135,11 +135,18 @@ li::marker{font-size:0;}
     /* background-color: beige; */
 }
 
+#who-we-are {
+    background-color: 3F5326;
+}
+#what-we-do {
+    background-color: #e7efdc;
+}
+
 #carosel {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #b6cf97;
+    /* background-color: #b6cf97; */
 }
 
 .green-button {
@@ -166,6 +173,11 @@ li::marker{font-size:0;}
 
 /* about page */
 .about-page {
+    background-color: #f6f9f2;
+}
+
+/* index page */
+.index-page {
     background-color: #f6f9f2;
 }
 
