@@ -21,9 +21,9 @@
 </head>
 <body class="d-flex flex-column min-vh-100">
     <header>
-        <nav class="navbar navbar-expand-lg" id="main-nav" style="background-color: #3F5326">
+        <nav class="navbar navbar-expand-lg navbar-dark" id="main-nav">
             <div class="container-fluid">
-                <a class="navbar-brand title-font" href="#">WALK & TALK</a>
+                <a class="navbar-brand title-font">WALK & TALK</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -73,68 +73,34 @@
                             <br>
                             <br>
                             Join us on a walk today – because together, we go further.</p>
-                        <a href="about.html" class="btn btn-light">Our contact form</a>
+                        <a href="about.html" class="btn btn-light green-button">Our contact form</a>
                     </div>
                 </div>
             </div>
         </section>
     <!-- CAROSEL -->
-    <!-- <section class="container section">
-        <div class="justify-content-center">
-            <div class="col-12 col-xl-6 text-center text-xl-start">
-                <h1 class="display-3">Photos of Recent Walks</h1>
-            </div>
-            <div class="col-12 col-xl-6">
+    <section id="carosel" class="container section my-5">
+        <div class="row justify-content-center">
+            <div class="col-12 col-xl-6 text-center">
+                <h1 class="display-3 mb-4">Photos of Recent Walks</h1>
                 <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="assets/images/carosel/boardwalk.png" class="d-block w-100"
+                            <img src="assets/images/carosel/boardwalk.png" class="d-block w-100 carousel-image"
                                 alt="A group of friends walking down a boardwalk">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/carosel/forest-walk-2.png" class="d-block w-100"
+                            <img src="assets/images/carosel/forest-walk-2.png" class="d-block w-100 carousel-image"
                                 alt="A group of friends walking in a forest">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/carosel/friends-running-down-hill-outdoor-field.png" class="d-block w-100"
+                            <img src="assets/images/carosel/friends-running-down-hill-outdoor-field.png" class="d-block w-100 carousel-image"
                                 alt="A group of friends running down a hill">
                         </div>
                         <div class="carousel-item">
-                            <img src="assets/images/carosel/selfie.png" class="d-block w-100"
+                            <img src="assets/images/carosel/selfie.png" class="d-block w-100 carousel-image"
                                 alt="Three ladies taking a selfie outside">
                         </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
-                        data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
-                        data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Next</span>
-                    </button>
-                </div>
-            </div>
-        </div>
-    </section> -->
-
-
-    <section class="container section">
-        <div class="row justify-content-center">
-            <div class="col-12 col-xl-6 text-center">
-                <h1 class="display-3">Photos of Recent Walks</h1>
-                <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="assets/images/carosel/boardwalk.png" class="d-block w-100"
-                                alt="A group of friends walking down a boardwalk">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="assets/images/carosel/forest-walk-2.png" class="d-block w-100"
-                                alt="A group of friends walking in a forest">
-                        </div>
-                        <!-- Add more carousel items as needed -->
                     </div>
                     <a class="carousel-control-prev" href="#carouselExampleAutoplaying" role="button" data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -144,6 +110,12 @@
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="sr-only">Next</span>
                     </a>
+                    <ol class="carousel-indicators">
+                        <li data-bs-target="#carouselExampleAutoplaying" data-bs-slide-to="0" class="active"></li>
+                        <li data-bs-target="#carouselExampleAutoplaying" data-bs-slide-to="1"></li>
+                        <li data-bs-target="#carouselExampleAutoplaying" data-bs-slide-to="2"></li>
+                        <li data-bs-target="#carouselExampleAutoplaying" data-bs-slide-to="3"></li>
+                    </ol>
                 </div>
             </div>
         </div>
