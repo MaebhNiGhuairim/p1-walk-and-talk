@@ -92,3 +92,6 @@ footer {
     white-space: nowrap;
 }
 
+.px-300-wide {
+    width:75px;
+}
