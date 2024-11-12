@@ -16,26 +16,10 @@ body {
     font-weight:400;
 }
 
-.get-in-touch-bar {
-    background-color: #3f3327;
-    color: white;
-    font-family: "Edu VIC WA NT Beginner", sans-serif;
-    font-weight:200;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 6rem; /* Adjust this value as needed */
-}
-
-
 .nav-link.active {
     font-weight: bold;
 }
 
-footer {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-}
 
 .hero-section {
     background: url('../../assets/images/hero-image.png') no-repeat center center;
@@ -43,10 +27,12 @@ footer {
     height: 90vh;
     color: #F8FAF0;
 }
-.hero-section .text-container {
+.hero-section .text-container, 
+.hero-section-secondary-page .text-container {
     background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
     padding: 20px;
     border-radius: 10px;
+    margin: 20px 20px;
 }
 
 .hero-section-secondary-page {
@@ -64,8 +50,7 @@ footer {
 
 #contact-instructions {
     background-color: beige;
-    border-right: 1px solid #ccc; /* Adjust the color and width as needed */
-    /* height: 100%; */
+    border-right: 1px solid #ccc;
 }
 
 #contact-instructions h3, p {
@@ -74,10 +59,16 @@ footer {
 
 .contact-card {
     width: 100%;
-    max-width: 500px; /* Adjust this value as needed */
+    max-width: 500px;
     margin-right: 0;
 }
 
 .pill-shape-input {
     border-radius: 50px;
+}
+
+footer {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-size: 15px;
 }
