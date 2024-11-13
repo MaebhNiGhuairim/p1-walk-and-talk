@@ -83,9 +83,15 @@ I used Bootstrap cards to make the benefits of join W&T easier to digest for the
 ### Contact Page:
 Our contact page explains why you should contact us, with a simple form to the right. It has been styled to be elegantly simple, with matching colours. I rounded the edges of the input forms to make them look better. I included a note saying that if anyone is in crisis, to reach out to emergency groups.
 
+### Thank you Page:
+This page ensures that visitors know their message has been received.
+
 ### Footer:
 This footer included links to all of our social media pages.
 
+## Future Features 
+### Timetable
+In the next iteration, I would have a page that included locations, and times of walks. This is a very important feature for a user of this website.
 
 
 ## Technologies Used
@@ -126,11 +132,43 @@ W3C Validator - This site checked my CSS and HTML for errors.
 <img width="1417" alt="Screenshot 2024-11-13 at 12 45 43" src="https://github.com/user-attachments/assets/97bc3dfc-eccd-4f00-af08-b1f22fbe60a5">
 
 ### Lighthouse scores via Chrome Developer Tools 
+<img width="850" alt="Screenshot 2024-11-13 at 12 48 19" src="https://github.com/user-attachments/assets/a94882ea-75e1-475a-9ad0-1b2972fc1eb2">
 
-
+Lighthouse was an excellent tool to make my site more accessible, and have better SEO results. I managed to fix many errors I hadn't even noticed I made. However, I struggled to improve my performance score. I believe my hero image is too slow to load, and changed it from png to webp but that didn't help much. In future iterations, I would fix this issue, but as it's very close to deadline, I don't want to disrupt the hero image.
 
 ### Unsolved Bugs 
 
+When the contact page is seen on a tablet, the contact instructions and contact box don't sit on top of each other. This leaves a large amount of whitespace at the bottom of the page. This isn't the best user experience, and I spent a lot of time trying to fix it. I have an idead that it's to do with minimum screen heights and the footer being stuck to the bottom of the page. This would be a priority to fix in future iterations. 
+
+<img width="452" alt="Screenshot 2024-11-13 at 12 54 57" src="https://github.com/user-attachments/assets/15dcfe67-9e36-41d6-8d0b-b5f3d72b040b">
+
+
+
+
+
+## Credits
+
+### Coding Materials
+I reviewed many Code Institute materials to make this website. I especially leaned on their carosel lesson to work on my carosel in my home page.
+<br>
+I used a lot of Bootstrap to help page responsiveness.
+<br>
+I used Copilot to help write and correct code. 
+
+### Inspiration
+I wanted real-life examples of websites that had a good landing page. I found [this website](https://www.hostinger.co.uk/tutorials/information-websites) which gave a few examples of websites that focused on providing information which strong landing pages. 
+<br>
+I knew green might not be the easiest to design so I wanted to see how others had incorporated green into their websites. I used [this page](https://blog.hubspot.com/website/green-websites) for inspiration.
+
+I used [coolers](https://coolors.co/) to play with different colours and get inspiration about which colour story to go with. 
+
+### Stock images and cartoons
+
+I used Pexels.com and Freepik.com for images and cartoons. 
+
+### Text
+
+I used www.perplexity.ai and CoPilot to write much of the text on the website.
 
 
 
