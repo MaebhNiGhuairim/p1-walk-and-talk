@@ -141,7 +141,7 @@ Lighthouse was an excellent tool to make my site more accessible, and have bette
 
 ### Unsolved Bugs 
 
-When the contact page is seen on a tablet, the contact instructions and contact box don't sit on top of each other. This leaves a large amount of whitespace at the bottom of the page. This isn't the best user experience, and I spent a lot of time trying to fix it. I have an idead that it's to do with minimum screen heights and the footer being stuck to the bottom of the page. This would be a priority to fix in future iterations. 
+When the contact page is seen on a tablet, the contact instructions and contact box don't sit on top of each other. This leaves a large amount of whitespace at the bottom of the page. This isn't the best user experience, and I spent a lot of time trying to fix it. I have an idea that it's to do with minimum screen heights and the footer being stuck to the bottom of the page. This would be a priority to fix in future iterations. 
 
 <img width="452" alt="Screenshot 2024-11-13 at 12 54 57" src="https://github.com/user-attachments/assets/15dcfe67-9e36-41d6-8d0b-b5f3d72b040b">
 
