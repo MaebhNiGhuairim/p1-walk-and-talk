@@ -68,14 +68,11 @@ I used photos of happy people on walks as images of previous walks. It was impor
 ### Navbar 
 The responsive navbar features links to Home, About, and Contact Us, designed for both desktop and mobile views. On larger screens, the links are displayed horizontally, while on smaller devices, they collapse into a hamburger menu that expands to show the links vertically when clicked. The navbar has a clean background with contrasting text colors, providing visual feedback on hover. It includes a logo on the left that serves as a home link and is structured to be accessible for all users, ensuring a smooth and user-friendly navigation experience across devices.
 
-
 ### Hero-Image 
 Choosing a picture of a group walking through a forest as a hero image for a walking group beautifully captures the essence of community, health, and nature. When looking at the image, I want the visit to envision themselves as part of this uplifting experience, inspiring them to join the group.
 
-
 ### Tagline - “empowering you to get out and talk about mental health”
 This tagline is core to the main aims of Walk & Talk - getting a group of people together, out in nature and having a chat. The tagline appeals to the visitor as we are telling them we can empower them to gather in community
-
 
 ### About:
 This page expands on the vision of the group as well as the benefits of joining the group. It explains how joining the group could be beneficial to someone on their journey of improving their mental health
@@ -94,18 +91,46 @@ This footer included links to all of our social media pages.
 ## Technologies Used
 ### Languages:
 CSS3
+<br>
 HTML5
 ### Frameworks, Libraries, Technologies & Programs Used
 Balsamiq - I created my wireframes with this application.
+<br>
 Bootstrap - I used this for site responsiveness and its grid system.
+<br>
 Favicon.io - I made my custom favicon using this website.
+<br>
 Font Awesome - I used Font Awesome icons for my footer.
-GitHub - This was the main place my repo was stored and where version control was maintained
+<br>
+GitHub - This was the main place my repo was stored and where version control was maintained.
+<br>
 GitHub CoPilot - I used this AI in conjuction with my own coding to write and correct my code.
+<br>
 Google Dev Tools - This was used to understand where my code was going wrong and to test different screen sizes.
+<br>
 Google Fonts - I used google fonts for my titles, favicons and bosy text.
+<br>
 Google Lighthouse - This tool audited my site.
+<br>
+WCAG Color contrast checker - This tested my contrast
+<br>
 W3C Validator - This site checked my CSS and HTML for errors.
+
+
+
+## Testing 
+### HTML Validation using W3C Validation 
+<img width="1422" alt="Screenshot 2024-11-13 at 12 44 55" src="https://github.com/user-attachments/assets/f0e277b4-a775-4fe5-8d54-3365869c4c38">
+
+### CSS Validation using W3C Validation 
+<img width="1417" alt="Screenshot 2024-11-13 at 12 45 43" src="https://github.com/user-attachments/assets/97bc3dfc-eccd-4f00-af08-b1f22fbe60a5">
+
+### Lighthouse scores via Chrome Developer Tools 
+
+
+
+### Unsolved Bugs 
+
 
 
 
