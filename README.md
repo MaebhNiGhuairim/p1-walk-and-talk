@@ -56,6 +56,21 @@ I chose to focus on the colour green as it is reminiscent of nature and calmness
 ![colours](https://github.com/user-attachments/assets/567b4c77-498e-468a-afa9-b60bb888f3fa)
 
 
+### Typography
+
+I used Google Fonts to customise my fonts across the website. In particular, I used [Sen](https://fonts.google.com/specimen/Sen)  and [Edu VIC WA NT Beginner](https://fonts.google.com/specimen/Edu+VIC+WA+NT+Beginner). I used the second font mainly for Headings, in all caps, and Sen for the rest of the text.
+
+### Imagery 
+
+I used a mixture of real images and cartoons. I used images that I believe would inspire the user to join the group. The hero image is a group of people walking together towards a clearing in the forest, which is lighter than the darkness of the forest behind. The forest itself is calming too - I instantly want to be trasnported there to be mindful.
+
+Images used in the bootstrap cards are indicative of each benefit proposed in the cards. 
+
+I used cartoons in the landing page to break up walls of text and to have a friendly tone to the text.
+
+I used photos of happy people on walks as images of previous walks. It was important to show diversity in all forms in these photos - all are welcome. 
+
+
 
 
 
