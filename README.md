@@ -28,5 +28,26 @@ I find that getting out and moving is great for my mental health, and so when I 
 
 ### Creation process (Strategy -> Surface) 
 
+This is the wireframe for the landing page:
+
+<img width="661" alt="Screenshot 2024-11-13 at 11 21 23" src="https://github.com/user-attachments/assets/9474cd01-c1cf-4b17-9d1f-f79c6a7c689d">
+
+
+
+This is the wireframe for the About page:
+
+<img width="295" alt="Screenshot 2024-11-13 at 11 21 35" src="https://github.com/user-attachments/assets/0e0260a7-c7ef-4b7e-91e2-374ebae61853">
+
+
+
+This is the wireframe for the Contact Us page:
+
+<img width="455" alt="Screenshot 2024-11-13 at 11 22 13" src="https://github.com/user-attachments/assets/2d3a9596-4c73-48c6-bf80-42db82dd0276">
+
+
+
+There is no wireframe for the thank you page.
+
+
 
 
