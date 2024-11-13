@@ -49,5 +49,13 @@ This is the wireframe for the Contact Us page:
 There is no wireframe for the thank you page.
 
 
+## Design
+
+### Colours:
+I chose to focus on the colour green as it is reminiscent of nature and calmness. A deep forest green was my main colour, and I used softer variations across the rest of the pages. 
+![colours](https://github.com/user-attachments/assets/567b4c77-498e-468a-afa9-b60bb888f3fa)
+
+
+
 
 
