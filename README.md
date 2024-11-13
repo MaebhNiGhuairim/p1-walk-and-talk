@@ -7,6 +7,8 @@ I find that getting out and moving is great for my mental health, and so when I 
 
 
 ## UXD (User Experience Design) 
+The goal of this site is to create an engaging and accessible platform that encourages individuals to join our community and participate in regular walking events. By providing clear information about our mission, resources on the benefits of walking, and a space for members to contact us, we aim to foster a sense of belonging and promote physical and mental well-being. The website is structured to enhance user experience with easy navigation, ensuring visitors can quickly find what they need. 
+
 ### User stories:
 1. Easy Navigation: As a visitor, I want to be able to navigate the website easily so that I can access the information I’m looking for.
 2. Accessibility: As a visitor, I want the website to be accessible so that I can use it regardless of any disabilities I may have.
@@ -126,6 +128,7 @@ W3C Validator - This site checked my CSS and HTML for errors.
 
 ## Testing 
 
+I regularly tested this website using Google inspect tools. I aimed to have a mobile first mindset and tested my sites responsiveness often. This helped enure my code was responsive across multiple screen sizes and devices.
 
 
 ### HTML Validation using W3C Validation 
@@ -136,7 +139,7 @@ W3C Validator - This site checked my CSS and HTML for errors.
 
 ### Lighthouse scores via Chrome Developer Tools 
 <img width="850" alt="Screenshot 2024-11-13 at 12 48 19" src="https://github.com/user-attachments/assets/a94882ea-75e1-475a-9ad0-1b2972fc1eb2">
-
+<br>
 Lighthouse was an excellent tool to make my site more accessible, and have better SEO results. I managed to fix many errors I hadn't even noticed I made. However, I struggled to improve my performance score. I believe my hero image is too slow to load, and changed it from png to webp but that didn't help much. In future iterations, I would fix this issue, but as it's very close to deadline, I don't want to disrupt the hero image.
 
 ### Unsolved Bugs 
@@ -192,11 +195,9 @@ I used [coolers](https://coolors.co/) to play with different colours and get ins
 
 I used Pexels.com and Freepik.com for images and cartoons. 
 
+I created the site Favicon with favicon.io
+
 ### Text
 
 I used www.perplexity.ai and CoPilot to write much of the text on the website.
-
-
-
-
 
