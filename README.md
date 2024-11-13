@@ -8,22 +8,14 @@ I find that getting out and moving is great for my mental health, and so when I 
 
 ## UXD (User Experience Design) 
 ### User stories:
-  Easy Navigation
-    As a visitor, I want to be able to navigate the website easily so that I can access the information I’m looking for 
-  Accessibility
-    As a visitor, I want the website to be accessible so that I can use it regardless of any disabilities I may have.
-  Welcoming homepage
-    As a visitor, I want to see a welcoming homepage with information about the purpose of the community walks so that I can understand the benefits of participating.
-  Contact Information
-    As a visitor, I want to see contact information on the website so that I can reach out to the organizers with any questions or concerns.
-  About Us Page
-    As a visitor, I want to read an "About Us" page that provides information about the organization and its mission to improve mental health through community walks so that I can        learn more about the organization.
-  Photo Gallery
-    As a visitor, I want to view a photo gallery of past community walks so that I can see what the events are like and feel encouraged to join.
-  Sign-Up Information
-    As a visitor, I want to see clear instructions on how to sign up for a walk, including any necessary forms or contact details, so that I can easily register for an event.
-  Social Media Links
-    As a visitor, I want to see links to the organization's social media profiles so that I can follow them for updates and more information.
+1. Easy Navigation: As a visitor, I want to be able to navigate the website easily so that I can access the information I’m looking for.
+2. Accessibility: As a visitor, I want the website to be accessible so that I can use it regardless of any disabilities I may have.
+3. Welcoming homepage: As a visitor, I want to see a welcoming homepage with information about the purpose of the community walks so that I can understand the benefits of participating.
+4. Contact Information: As a visitor, I want to see contact information on the website so that I can reach out to the organizers with any questions or concerns.
+5. About Us Page: As a visitor, I want to read an "About Us" page that provides information about the organization and its mission to improve mental health through community walks so that I can learn more about the organization.
+6. Photo Gallery: As a visitor, I want to view a photo gallery of past community walks so that I can see what the events are like and feel encouraged to join.
+7. Sign-Up Information: As a visitor, I want to see clear instructions on how to sign up for a walk, including any necessary forms or contact details, so that I can easily register for an event.
+8. Social Media Links: As a visitor, I want to see links to the organization's social media profiles so that I can follow them for updates and more information.
 
 
 ### Creation process (Strategy -> Surface) 
