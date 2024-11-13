@@ -101,7 +101,6 @@ footer {
     width:75px;
 }
 
-
 .carousel-image {
     border: 2px solid #ddd;
     border-radius: 10px;
@@ -132,7 +131,6 @@ li::marker{font-size:0;}
     align-items: center;
     justify-content: center;
     padding: 20px;
-    /* background-color: beige; */
 }
 #what-we-do {
     background-color: #e7efdc;
@@ -142,7 +140,6 @@ li::marker{font-size:0;}
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-color: #b6cf97; */
 }
 
 .green-button {
@@ -155,12 +152,12 @@ li::marker{font-size:0;}
 }
 /* makes card photos same height */
 .card-img-top {
-    height: 200px; /* Adjust the height as needed */
+    height: 200px;
     object-fit: cover;
 }
 
 .card-body {
-    padding: 10px; /* Adjust the padding as needed */
+    padding: 10px; 
 }
 /* centering text*/
 #mission  {
@@ -180,7 +177,3 @@ li::marker{font-size:0;}
 .card {
     background-color: #e7efdc;
 }
-
-/* #carosel h1 {
-    white-space: nowrap;
-} */
