@@ -71,10 +71,10 @@ I used photos of happy people on walks as images of previous walks. It was impor
 The responsive navbar features links to Home, About, and Contact Us, designed for both desktop and mobile views. On larger screens, the links are displayed horizontally, while on smaller devices, they collapse into a hamburger menu that expands to show the links vertically when clicked. The navbar has a clean background with contrasting text colors, providing visual feedback on hover. It includes a logo on the left that serves as a home link and is structured to be accessible for all users, ensuring a smooth and user-friendly navigation experience across devices.
 
 ### Hero-Image 
-Choosing a picture of a group walking through a forest as a hero image for a walking group beautifully captures the essence of community, health, and nature. When looking at the image, I want the visit to envision themselves as part of this uplifting experience, inspiring them to join the group.
+I chose a picture of a group walking through a forest as a hero image, which hopefully captures the essence of community, health, and nature. When looking at the image, I want the visit to envision themselves as part of this uplifting experience, inspiring them to join the group.
 
 ### Tagline - “empowering you to get out and talk about mental health”
-This tagline is core to the main aims of Walk & Talk - getting a group of people together, out in nature and having a chat. The tagline appeals to the visitor as we are telling them we can empower them to gather in community
+This tagline is core to the main aims of Walk & Talk - getting a group of people together, out in nature and having a chat. The tagline appeals to the visitor as we are telling them we can empower them to gather in community.
 
 ### About:
 This page expands on the vision of the group as well as the benefits of joining the group. It explains how joining the group could be beneficial to someone on their journey of improving their mental health
