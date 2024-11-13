@@ -18,7 +18,7 @@ I find that getting out and moving is great for my mental health, and so when I 
 8. Social Media Links: As a visitor, I want to see links to the organization's social media profiles so that I can follow them for updates and more information.
 
 
-### Creation process (Strategy -> Surface) 
+### Creation process 
 
 This is the wireframe for the landing page:
 
@@ -125,6 +125,9 @@ W3C Validator - This site checked my CSS and HTML for errors.
 
 
 ## Testing 
+
+
+
 ### HTML Validation using W3C Validation 
 <img width="1422" alt="Screenshot 2024-11-13 at 12 44 55" src="https://github.com/user-attachments/assets/f0e277b4-a775-4fe5-8d54-3365869c4c38">
 
@@ -143,7 +146,30 @@ When the contact page is seen on a tablet, the contact instructions and contact 
 <img width="452" alt="Screenshot 2024-11-13 at 12 54 57" src="https://github.com/user-attachments/assets/15dcfe67-9e36-41d6-8d0b-b5f3d72b040b">
 
 
-
+## Deployment
+### Deploying the Website on GitHub Pages
+1. Access the Repository
+   <br>
+   Visit github.com/MaebhNiGhuairim and select the p1-walk-and-talk repository.
+2. Open Settings
+   <br>
+   Click on the "Settings" tab in the top navigation bar of the repository.
+3. Navigate to Pages
+   <br>
+   In the left sidebar, scroll down and click on "Pages" under the "Code and automation" section.
+4. Configure Deployment Source
+   <br>
+   Under "Build and deployment", ensure "Deploy from a branch" is selected as the source.
+5. Set Branch and Directory
+   <br>
+   In the "Branch" section, choose "Main" from the dropdown menu and select "/root" as the folder.
+6. Save Changes
+   <br>
+   Click the "Save" button to apply your settings.
+7. Access Your Live Site
+   <br>
+   After a short delay (usually a minute or two), a link to your live project will appear at the top of the Pages section.
+Your Walk & Talk website should now be live and accessible via the provided GitHub Pages URL.
 
 
 ## Credits
